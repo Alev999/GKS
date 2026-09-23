@@ -1,0 +1,27 @@
+{
+  "name": "AnimePahe SUB",
+  "author": "Jay",
+  "version": "1.0.2",
+  "scrapers": [
+    {
+      "id": "animepahe-sub",
+      "name": "AnimePahe SUB",
+      "description": "AnimePahe subbed anime",
+      "version": "1.0.2",
+      "author": "Jay",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "https://raw.githubusercontent.com/JayGxnzalez/Modules/refs/heads/main/Animepahe-SUB/Animepahe-Sub.js",
+      "enabled": true,
+      "formats": [
+        "m3u8"
+      ],
+      "logo": "https://raw.githubusercontent.com/JayGxnzalez/Modules/refs/heads/main/Animepahe-DUB/Icon.png",
+      "contentLanguage": [
+        "en"
+      ]
+    }
+  ]
+}
